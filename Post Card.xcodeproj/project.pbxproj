@@ -13,6 +13,12 @@
 		9A68E6DD1A8C18760055A51D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6DC1A8C18760055A51D /* Images.xcassets */; };
 		9A68E6E01A8C18760055A51D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6DE1A8C18760055A51D /* LaunchScreen.xib */; };
 		9A68E6EC1A8C18760055A51D /* Post_CardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A68E6EB1A8C18760055A51D /* Post_CardTests.swift */; };
+		9A68E6F61A8C1AAF0055A51D /* IMG_1610.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6F51A8C1AAF0055A51D /* IMG_1610.JPG */; };
+		9A68E6F81A8C1AB60055A51D /* IMG_1428.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6F71A8C1AB60055A51D /* IMG_1428.jpg */; };
+		9A68E6FA1A8C1ABC0055A51D /* IMG_1499.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6F91A8C1ABC0055A51D /* IMG_1499.JPG */; };
+		9A68E6FC1A8C1AC20055A51D /* images-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6FB1A8C1AC20055A51D /* images-1.jpg */; };
+		9A68E6FE1A8C1D6F0055A51D /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6FD1A8C1D6F0055A51D /* images.jpg */; };
+		9A68E7001A8C1DAC0055A51D /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A68E6FF1A8C1DAC0055A51D /* images.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +42,12 @@
 		9A68E6E51A8C18760055A51D /* Post CardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Post CardTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A68E6EA1A8C18760055A51D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A68E6EB1A8C18760055A51D /* Post_CardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post_CardTests.swift; sourceTree = "<group>"; };
+		9A68E6F51A8C1AAF0055A51D /* IMG_1610.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1610.JPG; sourceTree = "<group>"; };
+		9A68E6F71A8C1AB60055A51D /* IMG_1428.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1428.jpg; sourceTree = "<group>"; };
+		9A68E6F91A8C1ABC0055A51D /* IMG_1499.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1499.JPG; sourceTree = "<group>"; };
+		9A68E6FB1A8C1AC20055A51D /* images-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-1.jpg"; sourceTree = "<group>"; };
+		9A68E6FD1A8C1D6F0055A51D /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		9A68E6FF1A8C1DAC0055A51D /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +102,12 @@
 		9A68E6D31A8C18760055A51D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9A68E6FF1A8C1DAC0055A51D /* images.png */,
+				9A68E6FD1A8C1D6F0055A51D /* images.jpg */,
+				9A68E6F91A8C1ABC0055A51D /* IMG_1499.JPG */,
+				9A68E6FB1A8C1AC20055A51D /* images-1.jpg */,
+				9A68E6F71A8C1AB60055A51D /* IMG_1428.jpg */,
+				9A68E6F51A8C1AAF0055A51D /* IMG_1610.JPG */,
 				9A68E6D41A8C18760055A51D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +210,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A68E7001A8C1DAC0055A51D /* images.png in Resources */,
+				9A68E6FA1A8C1ABC0055A51D /* IMG_1499.JPG in Resources */,
 				9A68E6DB1A8C18760055A51D /* Main.storyboard in Resources */,
+				9A68E6FC1A8C1AC20055A51D /* images-1.jpg in Resources */,
+				9A68E6F81A8C1AB60055A51D /* IMG_1428.jpg in Resources */,
 				9A68E6E01A8C18760055A51D /* LaunchScreen.xib in Resources */,
 				9A68E6DD1A8C18760055A51D /* Images.xcassets in Resources */,
+				9A68E6F61A8C1AAF0055A51D /* IMG_1610.JPG in Resources */,
+				9A68E6FE1A8C1D6F0055A51D /* images.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
